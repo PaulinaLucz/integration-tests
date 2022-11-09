@@ -16,8 +16,10 @@ The project includes javascript functions and tests, it is necessary to add node
 
 Node.js (LTS version):
 https://nodejs.org/en/download/
+
 Yarn:
 https://yarnpkg.com/getting-started/install
+
 Jest:
 https://jestjs.io/docs/getting-started
 
